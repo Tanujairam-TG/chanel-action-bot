@@ -269,6 +269,6 @@ async def broad(e):
 
 
 log.info("Started Bot - %s", bot_username)
-log.info("\n@BotzHub\n\nBy - @xditya.")
+log.info("Made by Thanimai team.")
 
 bot.run_until_disconnected()
